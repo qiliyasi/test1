@@ -1,0 +1,6 @@
+ls（即list，查看文件夹内有什么）
+git status（git状态）
+git init（初始化git仓库
+git add
+-a（all
+-m（message
